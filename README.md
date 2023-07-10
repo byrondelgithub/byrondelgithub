@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/illoruben" target="blank"><img src="https://img.shields.io/twitter/follow/illoruben?logo=twitter&style=for-the-badge" alt="illoruben" /></a> </p>
 
-- 🔭 I’m currently working on **SILENCE PLS**
+- 🔭 I’m currently working on **SILENCE PLS** and some small projects for fun!.
 
-- 🌱 I’m currently learning **Flutter, Angular, ASGI Django and much more.**
+- 🌱 I’m currently learning **Flutter, Angular, React, ASGI Django and much more.**
 
 - 💻 Working at **Ontech SL**
 
-- 📫 How to reach me **rhurtadoportillo@gmail.com**
-
-- ⚡ Fun fact **Horses cant actually throw up because their stomach dont have enough strength to do it. Same with giraffes.**
+- 📫 How to reach me: **rhurtadoportillo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

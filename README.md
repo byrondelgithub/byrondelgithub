@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my family depends on python and my name is Rubén Hurtado Portillo</h1>
-<h3 align="center">I started in python, I migrated to Java but came back because I hated It.</h3>
+<h3 align="center">Python lover. Searching for an excuse to study a new technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byrondelgithub&label=Profile%20views&color=0e75b6&style=flat" alt="byrondelgithub" /> </p>
 
